@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#07070D</color>
+    <color name="surface">#0F0F1A</color>
+    <color name="surface2">#181828</color>
+    <color name="border">#252540</color>
+    <color name="wwe_red">#D4001A</color>
+    <color name="gold">#FFD700</color>
+    <color name="gold_dim">#C9A227</color>
+    <color name="text_primary">#E8E8F0</color>
+    <color name="text_dim">#7A7A99</color>
+    <color name="green">#00C853</color>
+    <color name="blue">#2979FF</color>
+    <color name="face_color">#00E676</color>
+    <color name="heel_color">#FF4444</color>
+    <color name="grade_astar">#FFD700</color>
+    <color name="grade_a">#00E676</color>
+    <color name="grade_b">#40C4FF</color>
+    <color name="grade_c">#FFAB40</color>
+    <color name="grade_d">#FF7043</color>
+    <color name="grade_e">#EF5350</color>
+    <color name="grade_f">#B71C1C</color>
+</resources>

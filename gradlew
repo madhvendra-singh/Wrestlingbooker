@@ -1,0 +1,7 @@
+#!/bin/sh
+# Gradle wrapper launch script
+
+APP_HOME=$(dirname "$(readlink -f "$0")")
+CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar
+
+exec java -classpath "$CLASSPATH" org.gradle.wrapper.GradleWrapperMain "$@"
